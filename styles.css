@@ -221,6 +221,37 @@ section{padding:28px 0}
   grid-template-columns: 1fr 1fr;
   gap:14px;
 }
+.case-card{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  padding:32px 16px;
+  min-height:200px;
+  cursor:pointer;
+  transition: all 0.3s ease;
+}
+.case-card:hover{
+  transform: translateY(-4px);
+  background:rgba(255,255,255,.08);
+  box-shadow: 0 20px 50px rgba(0,0,0,.35);
+}
+.case-image{
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-bottom:18px;
+}
+.case-title{
+  margin:0;
+  font-size:24px;
+  font-weight:800;
+  letter-spacing:-.3px;
+  text-align:center;
+}
 .caseTop{
   display:flex; align-items:center; justify-content:space-between; gap:10px;
   padding-bottom:10px;
