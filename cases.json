@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "ophelia",
+    "title": "Ophelia",
+    "context": "Hamlet — patriarchal authority",
+    "tag": "Speak / Pause",
+    "tagTone": "violet",
+    "image": "images/ophelia.jpg",
+    "problem": "Spoken for, emotionally managed, grief denied",
+    "tool": "Emotion→Words + Advocate Link™",
+    "result": "Grief processed safely before collapse",
+    "slideNote": "Show how \"obedience\" becomes isolation; silence is imposed, not chosen.",
+    "analysis": [
+      "Ophelia's tragedy unfolds when her voice is systematically suppressed by patriarchal authority. Her father Polonius and her lover Hamlet both dictate what she should think, feel, and say. When her father dies, she is denied the space to process her grief authentically.",
+      "With SILENTNO MORE™, Ophelia would have access to tools that help translate overwhelming emotions into words on her own terms, and connect with advocates who recognize her autonomy. The Speak/Pause pathway allows her to choose when and how to express herself, preventing the internal collapse that occurs when silence is enforced rather than chosen."
+    ]
+  },
+  {
+    "slug": "narrator",
+    "title": "The Narrator",
+    "context": "The Yellow Wallpaper — medical authority",
+    "tag": "Protect",
+    "tagTone": "cyan",
+    "image": "images/yellow.jpg",
+    "problem": "Forbidden expression; experience dismissed",
+    "tool": "Narrative Toolkit + escalation",
+    "result": "Repression replaced with supported expression",
+    "slideNote": "Madness doesn't arrive first — delegitimization of voice does.",
+    "analysis": [
+      "In \"The Yellow Wallpaper,\" the narrator's husband, a physician, prescribes the \"rest cure\" and forbids her from writing or expressing herself. Her medical and emotional experiences are systematically dismissed as hysteria. She is confined to a room and denied agency over her own recovery.",
+      "SILENTNO MORE™'s Protect pathway would give her tools to document her experience privately and safely, building a narrative that validates her reality. The escalation features would connect her with advocates who can challenge medical gaslighting before it leads to complete psychological breakdown. Expression becomes a protective act, not a forbidden one."
+    ]
+  },
+  {
+    "slug": "IonaPotapov",
+    "title": "Iona Potapov",
+    "context": "Chekhov — emotional labor exploitation",
+    "tag": "Protect",
+    "tagTone": "pink",
+    "image": "images/chekhov.jpg",
+    "problem": "Iona's grief ignored; forced emotional labor",
+    "tool": "Narrative Toolkit + Advocate Link™",
+    "result": "Grief acknowledged before isolation becomes permanent",
+    "slideNote": "Authority doesn't just punish — it controls meaning.",
+    "analysis": [
+      "In Chekhov's story, Iona Potapov, a cab driver, is grieving the recent death of his son. However, his passengers consistently ignore his emotional state, expecting him to perform emotional labor by listening to their problems without reciprocation. His grief is marginalized in favor of serving others.",
+      "With SILENTNO MORE™, Iona would have access to the Protect pathway, allowing him to document his grief and connect with advocates who understand his emotional needs. The Narrative Toolkit would help him process his feelings privately, while the Advocate Link™ would provide support networks to prevent isolation. This intervention ensures that Iona's grief is acknowledged before it leads to permanent emotional detachment."
+    ]
+  },
+  {
+    "slug": "girl",
+    "title": "The Girl",
+    "context": "Jamaica Kincaid — cultural instruction",
+    "tag": "Pause",
+    "tagTone": "violet",
+    "image": "images/girl.jpg",
+    "problem": "Identity overwritten by endless rules",
+    "tool": "Boundary prompts + selective disengagement",
+    "result": "Selfhood formed internally, not imposed",
+    "slideNote": "Tragedy can be invisible — loss of voice before adulthood.",
+    "analysis": [
+      "Jamaica Kincaid's \"Girl\" is a relentless stream of instructions from mother to daughter: how to walk, how to cook, how to behave. The girl's own voice appears only twice, barely audible beneath the weight of cultural expectations. Her identity is being written for her before she has the chance to discover who she might become.",
+      "SILENTNO MORE™'s Pause pathway would give the girl space to recognize which instructions serve her and which ones silence her authentic self. Boundary prompts help her distinguish between guidance and erasure, allowing selective disengagement from harmful messaging while preserving valuable cultural connections. The tragedy here is preventable: selfhood can form internally, protected from being completely overwritten."
+    ]
+  },
+  {
+    "slug": "malala",
+    "title": "Malala Yousafzai",
+    "context": "Workplace retaliation scenario",
+    "tag": "Speak",
+    "tagTone": "cyan",
+    "image": null,
+    "problem": "Reporting creates risk; silence protects job but erodes wellbeing",
+    "tool": "Voice Pathways™ + documentation support",
+    "result": "Controlled disclosure on their terms; agency restored",
+    "slideNote": "Contemporary proof of concept — same pattern, modern context.",
+    "analysis": [
+      "This modern application demonstrates how workplace power dynamics create the same silencing patterns seen in literature. An employee witnesses misconduct but knows that reporting could result in retaliation, job loss, or being labeled a troublemaker. Silence preserves safety but creates internal conflict and erodes wellbeing over time.",
+      "SILENTNO MORE™ provides Voice Pathways that let the individual choose: speak openly, pause to gather support and documentation, or protect themselves while still preserving their truth. Documentation support creates a record on their terms. The Advocate Link connects them with resources that understand power dynamics. Most importantly, they control the timing and method of disclosure, maintaining agency in a system designed to suppress it."
+    ]
+  }
+]
