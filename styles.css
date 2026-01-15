@@ -77,6 +77,10 @@ nav a:hover{color:var(--text); background:rgba(255,255,255,.06)}
   border:1px solid rgba(125,211,252,.35);
   background: linear-gradient(135deg, rgba(125,211,252,.18), rgba(167,139,250,.14));
 }
+.btn.primary:hover{
+  background: linear-gradient(135deg, rgba(125,211,252,.28), rgba(167,139,250,.24));
+  border-color: rgba(125,211,252,.50);
+}
 .pill{
   font-family:var(--mono);
   font-size:12px;

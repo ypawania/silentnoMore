@@ -44,6 +44,7 @@
           <div class="ctaRow">
             <a class="btn primary" href="#cases">See case studies</a>
             <a class="btn" href="#product">How it works</a>
+            <button id="runAnalysisBtn" class="btn primary" onclick="playAnalysis()">Run analysis</button>
           </div>
         </div>
 
@@ -271,5 +272,14 @@ SIMPLE FLOW
       <div class="copy">© SILENTNO MORE™ 2026. All rights reserved.</div>
     </div>
   </footer>
+
+  <script>
+    function playAnalysis() {
+      const audio = new Audio('robot-response.mp3');
+      setTimeout(() => {
+        audio.play();
+      }, 1000);
+    }
+  </script>
 </body>
 </html>
